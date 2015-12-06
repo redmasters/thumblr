@@ -34,7 +34,6 @@ article,
 aside,
 details,
 figcaption,
-figure,
 footer,
 header,
 hgroup,
@@ -43,7 +42,7 @@ menu,
 nav,
 section,
 summary {
-  display: none;
+  display: block;
   padding: 0px;
 }
 
